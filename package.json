@@ -1,0 +1,19 @@
+{
+  "name": "droplet",
+  "version": "1.0.0",
+  "description": "Learning to make discord bots! Woohoo!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "bots",
+    "fun"
+  ],
+  "author": "Hilman",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
